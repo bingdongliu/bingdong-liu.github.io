@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Hello World"
-date:   2022-07-17
+title: "Hello World"
+date: 2022-07-17
+tags: hello-world
 ---
 
 $1+2=3$
