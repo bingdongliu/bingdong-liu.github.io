@@ -21,7 +21,7 @@
 title: lunchbox's blog
 email: dongliu0426@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Yet another competitive programming blog for problem explanations and tutorials
+  A competitive programming blog for problem tutorials and explanations
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
