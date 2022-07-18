@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-tag: cf
+tag: "cf"
 robots: noindex
 ---

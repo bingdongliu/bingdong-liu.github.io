@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-tag: greedy
+tag: "greedy"
 robots: noindex
 ---
