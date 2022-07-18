@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "My Strategy"
-date: 2022-07-16
-tags: strategy
 ---
 
 ### My Strategy for OI Contests
