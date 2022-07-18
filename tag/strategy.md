@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-tag: hello-world
+tag: strategy
 robots: noindex
 ---
