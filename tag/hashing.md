@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-tag: "binlifting"
+tag: "hashing"
 robots: noindex
 ---
