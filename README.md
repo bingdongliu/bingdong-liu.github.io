@@ -27,4 +27,5 @@ tags: tag1 tag2
 
 ### Solution
 
+[Solution Link](/solution/link)
 ```
