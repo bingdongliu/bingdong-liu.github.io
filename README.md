@@ -6,7 +6,7 @@ To run this site locally:
 bundle exec jekyll serve
 ```
 
-Creating tag pages
+To create tag pages:
 
 ```
 python3 tag-generator.py
