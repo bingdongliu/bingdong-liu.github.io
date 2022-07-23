@@ -12,6 +12,17 @@ layout: default
   {% for temptag in sortedtemptags %}
     {% assign tagitems = temptag | split: '#' %}
     {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
-    <a href="/tag/{{ tagname }}"><code class="highligher-rouge"><nobr>{{ tagname }}</nobr></code></a>&nbsp;
+    <details>
+      <summary>
+        <code class="highligher-rouge"><nobr>{{ tagname }}</nobr></code>
+      </summary>
+      <ul>
+      {% for post in site.tags[tagname] %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})
+          {{ post.description }}
+        </li>
+      {% endfor %}
+      </ul>
+    </details>
   {% endfor %}
 </div>
