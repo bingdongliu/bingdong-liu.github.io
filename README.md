@@ -1,4 +1,4 @@
-### Competitive Programming Blog
+## Competitive Programming Blog
 
 To run this site locally:
 
